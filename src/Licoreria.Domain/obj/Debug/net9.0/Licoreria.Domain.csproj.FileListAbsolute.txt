@@ -1,0 +1,11 @@
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/bin/Debug/net9.0/Licoreria.Domain.deps.json
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/bin/Debug/net9.0/Licoreria.Domain.dll
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/bin/Debug/net9.0/Licoreria.Domain.pdb
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/Licoreria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/Licoreria.Domain.AssemblyInfoInputs.cache
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/Licoreria.Domain.AssemblyInfo.cs
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/Licoreria.Domain.csproj.CoreCompileInputs.cache
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/Licoreria.Domain.dll
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/refint/Licoreria.Domain.dll
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/Licoreria.Domain.pdb
+/Users/poysmon/Desktop/University/erp-licoreria/src/Licoreria.Domain/obj/Debug/net9.0/ref/Licoreria.Domain.dll
